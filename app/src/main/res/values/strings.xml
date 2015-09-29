@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+
+    <string name="welcome_string"><font size="40" color="red" face="verdana">Hi, I am Sharon!</font></string>
+    <string name="action_settings">Settings</string>
+    <string name="ask_name"><font size="30" color="red" face="verdana">What is your name?</font></string>
+    <string name="process_name">Go!</string>
+    <string name="enter_name">Enter your name here</string>
+    <string name="name_string"></string>
+    <string name="upload_button">Upload Picture</string>
+
+</resources>
